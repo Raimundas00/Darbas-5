@@ -1,0 +1,89 @@
+.card{
+    width: 550px;
+    height: 700px;
+    border: 10px solid #f5f5f5;
+    margin: 0 auto;
+}
+.card2{
+background-color:#f8fbff ;
+border-top: 2px solid #317ff2;
+}
+.name{
+
+    width: 500px;
+    border-bottom: 2px solid #edf0f4;
+    margin: 0 20px 0 20px;
+    padding-top: 20px;
+}
+.product1 , .price {
+    display: inline-block;
+    margin-left: 20px;
+}
+.price{
+    float:right;
+    margin-right: 30px;
+}
+.description{
+    margin-left: 20px;
+    color: #c7cace;
+}
+.description1{
+    width: 500px;
+    border-bottom: 2px solid #edf0f4;
+    margin: 0 10px 0 20px;
+    color: #c7cace;
+}
+.holder{
+    width: 150px;
+    margin-left: 20px;
+    color: #c7cace;
+}
+.holder1{
+    padding: 10px 30px ;
+    border: 1px solid #c7cace; 
+    border-radius: 5px;
+    color: #c7cace;
+    font-size: 15px;
+}
+.month{
+    width: 30px;
+    padding:10px 15px ;
+    color: #c7cace;
+    font-size: 15px;
+    color: #c7cace;
+    border: 1px solid #c7cace; 
+    border-radius: 5px;
+
+}
+.month1{
+    width: 180px;
+    margin-left: 180px;
+    text-align: center;
+}
+.holder , .month1{
+    display: inline-block;
+    color: #c7cace;
+}
+.cvc{
+    width: 30px;
+    padding:10px 60px ;
+    color: #c7cace;
+    font-size: 15px;
+    color: #c7cace;
+    border: 1px solid #c7cace; 
+    border-radius: 5px;
+  
+}
+button{
+    background-color: #317ff2;
+    border: 0px;
+    margin-top: 30px;
+    padding: 10px;
+    margin-left: 20px;
+    width: 500px;
+    border-radius: 5px;
+    color: white;
+}
+
+
+

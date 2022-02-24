@@ -1,0 +1,84 @@
+.card{
+    width: 400px;
+    height: 600px;
+    border: 10px solid #f5f5f5;
+    margin: 0 auto;
+    
+  }
+  .img{
+    background-image: url(cofe.jpg);
+    width: 380px;
+    height: 200px;
+    background-size: cover;
+    background-position: center center;
+    border-radius: 5px;
+    margin: 10px 10px 10px 10px;
+  }
+  .title{
+      color: #72581e;
+      margin: -200px 10px 10px 50px;
+  }
+  p{
+      font-size: 20px;
+  }
+  .name {
+      margin-top: 150px;
+      margin-left: 20px;
+      color:#9e99df ;
+      width: 200px;
+      
+  }
+  .name1{
+      border: 0;
+  }
+ .name1:focus-visible{
+     outline: 0;
+ }
+  
+  .border{
+    border-bottom: 2px solid #9e99df ;
+    margin-top: 10px;
+    width: 350px;
+    margin-left: 20px;
+  }
+  .email{
+    margin-top: 20px;
+    margin-left: 20px;
+    color:#9e99df ;
+    width: 200px;
+    border: 0;
+  }
+  .email1{
+    border: 0;
+}
+.email1:focus-visible{
+    outline: 0;
+}
+  .pw{
+    margin-top: 40px;
+    margin-left: 20px;
+    color:#c7cace ;
+    width: 350px;
+    border-bottom: 2px solid #c7cace ;
+  }
+  .password{
+      border: 0;
+  }
+  .password:focus-visible{
+      outline: 0;
+  }
+  button{
+    background-color: #9e99df ;
+    border: 0px;
+    margin-top: 30px;
+    padding: 20px;
+    margin-left: 20px;
+    width: 350px;
+    border-radius: 5px;
+    color: white;
+  }
+  .terms{
+      text-align: center;
+      color: #c7cace ;
+      margin: 10px;
+  }

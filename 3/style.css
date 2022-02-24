@@ -1,0 +1,70 @@
+.card{
+    width: 600px;
+    height: 500px;
+    margin: 0 auto;
+    background-color: #f2f2f2;
+    border: 2px solid #e5e5e5;
+    border-radius: 5px;
+}
+.title{
+    width: 120px;
+}
+.row{
+width: 200px;
+
+padding: 20px;
+}
+
+.row1{
+    padding: 7px 40px;
+    margin-bottom: 10px;
+}
+.row2{
+  width: 200px;
+  float:right;
+  margin-top: -332px;
+ margin-right: 70px;
+}
+.row .row2{
+    display: inline-block;
+}
+
+
+.row3{
+    padding:7px 30px;
+    width: 30px;
+    margin: 5px;
+}
+button{
+    margin-top: 20px;
+    padding: 7px 250px;
+    margin-left: 20px;
+    background-color:#555555 ;
+    color: white;
+    border-radius: 5px;
+}
+.fa-cc-paypal{
+    
+    width: 40px;
+    font-size: 40px;
+    margin-right: 6px;
+    
+    
+}
+.fa-cc-apple-pay{
+    width: 40px;
+    font-size: 40px;
+    margin-right: 6px;
+    
+}
+.fa-cc-visa{
+    width: 40px;
+    font-size: 40px;
+    margin-right: 6px;
+    
+}
+.fa-cc-discover{
+    width: 40px;
+    font-size: 40px;
+    
+}

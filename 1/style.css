@@ -1,0 +1,70 @@
+.card{
+  border: 1px;
+  background-color: #e6e6f8;
+  height: 400px;
+  width: 500px;
+  margin: 0 auto;
+  margin-bottom: 20px;
+ 
+}
+.title{
+ text-align: center;
+ 
+ 
+}
+ .firstname {
+    width: 300px;
+    margin: 10px auto;
+    font-size: 20px;
+    color: #a0a4b5
+  }
+.lastname{
+  width: 300px;
+  margin: 10px 103px;
+  font-size: 20px;
+  color: #a0a4b5
+}
+.username{
+  width: 300px;
+  margin: 10px 104px;
+  font-size: 20px;
+  color: #a0a4b5
+}
+.password{
+width: 300px;
+margin: 10px 110px;
+font-size: 20px;
+color: #a0a4b5
+}
+.email{
+width: 300px;
+margin: 10px 140px;
+font-size: 20px;
+color: #a0a4b5
+}
+.number{
+width: 300px;
+margin: 10px 100px;
+font-size: 20px;
+color: #a0a4b5
+}
+.city{
+width: 300px;
+margin: 10px 200px;
+font-size: 20px;
+color: #a0a4b5
+}
+
+  .sendbutton{
+background-color: #67ac5b;
+color: white;
+width: 100px;
+margin: 10px 10px 10px 150px;
+font-size: 15px;
+border: 0;
+padding: 10px;
+  }
+
+ .btn {
+   text-align: center;
+ }
